@@ -1,7 +1,5 @@
 # Reading Notes:
 
-## welcome to my notes.
-
 ***the sun will rise, and we will try again.***
 
 * name : ahmad alfrijat (he/him).
