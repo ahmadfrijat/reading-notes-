@@ -18,5 +18,12 @@
 ## Code 102 - Intro to Software Development
 ## Code 201 - Foundations of Software Development
 ## Code 301 - Intermediate Software Development
+| Syntax                                                             | Description                           |
+| ------------------------------------------------------------------ | ------------------------------------- |
+| - [class 01](https://ahmadfrijat.github.io/reading-notes-/01)      |  RESPONSIVE WEB DESIGN and FLOATS     |
+| - [class 01](https://ahmadfrijat.github.io/reading-notes-/02)      | MUSTACHE and FLEXBOX                  |
+
+
+
    - [class 01](https://ahmadfrijat.github.io/reading-notes-/01)
 ## Code 401 - Advanced Software Development
