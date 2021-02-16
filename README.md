@@ -18,13 +18,15 @@
 ## Code 102 - Intro to Software Development
 | Syntax                                                               | Description                           |
 | -------------------------------------------------------------------- | ------------------------------------- |
-| - [class 01](https://ahmadfrijat.github.io/reading-notes-01/01)      |  HTML                                 |
-| - [class 02](https://ahmadfrijat.github.io/reading-notes-01/02)      |  Pair Programming                     |
-| - [class 03](https://ahmadfrijat.github.io/reading-notes-01/03)      |   lists in html                       |
-| - [class 04](https://ahmadfrijat.github.io/reading-notes-01/04)      |   JavaScript Functions                |
-| - [class 05](https://ahmadfrijat.github.io/reading-notes-01/05)      |   HTML Images Syntax                  |
-| - [class 06](https://ahmadfrijat.github.io/reading-notes-01/06)      |   OBJECTS                             |
-| - [class 07](https://ahmadfrijat.github.io/reading-notes-01/07)      |   Domain Modeling                     |
+| - [class01](https://ahmadfrijat.github.io/reading-notes/read2)       |  Markdown                             |
+| - [class02](https://ahmadfrijat.github.io/reading-notes/read2)       |  Pair Programming                     |
+| - [class03](https://ahmadfrijat.github.io/reading-notes-03/.)        |   GitHub & HTML                       |
+| - [class04](https://ahmadfrijat.github.io/reading-notes-03/.)        |   color css                           |
+| - [class05](https://ahmadfrijat.github.io/reading-notes/05)          |   What is JavaScript?                 |
+| - [class06](https://ahmadfrijat.github.io/reading-notes/06)          |   OBJECTS                             |
+| - [class07](https://ahmadfrijat.github.io/reading-notes/07)          |  JavaScript functions                 |
+| - [class08](https://ahmadfrijat.github.io/reading-notes/08)          |   while loop                          |
+
 
 
 ## Code 201 - Foundations of Software Development
@@ -46,11 +48,12 @@
 | - [class 14a](https://ahmadfrijat.github.io/reading-notes-01/14a)    |   MUSTACHE and FLEXBOX                |
 | - [class 14b](https://ahmadfrijat.github.io/reading-notes-01/14b)    |   MUSTACHE and FLEXBOX                |
 ## Code 301 - Intermediate Software Development
-| Syntax                                                             | Description                           |
-| ------------------------------------------------------------------ | ------------------------------------- |
-| - [class 01](https://ahmadfrijat.github.io/reading-notes-/01)      |  RESPONSIVE WEB DESIGN and FLOATS     |
-| - [class 02](https://ahmadfrijat.github.io/reading-notes-/02)      |  Pair Programming                     |
-| - [class 03](https://ahmadfrijat.github.io/reading-notes-/03)      |   MUSTACHE and FLEXBOX                |
+| Syntax                                                               | Description                                      |
+| -------------------------------------------------------------------- | ------------------------------------------------ |
+| - [class 01](https://ahmadfrijat.github.io/reading-notes-/01)        |  RESPONSIVE WEB DESIGN and FLOATS                |
+| - [class 02](https://ahmadfrijat.github.io/reading-notes-/02)        |  Pair Programming                                |
+| - [class 03](https://ahmadfrijat.github.io/reading-notes-/03)        |   MUSTACHE and FLEXBOX                           |
+| - [class 04](https://ahmadfrijat.github.io/reading-notes-/04)        |   Responsive Web Design and Regular Expressions  |
 
 
 ## Code 401 - Advanced Software Development
