@@ -51,9 +51,10 @@
 | Syntax                                                               | Description                                      |
 | -------------------------------------------------------------------- | ------------------------------------------------ |
 | - [class 01](https://ahmadfrijat.github.io/reading-notes-/01)        |  RESPONSIVE WEB DESIGN and FLOATS                |
-| - [class 02](https://ahmadfrijat.github.io/reading-notes-/02)        |  Pair Programming                                |
+| - [class 02](https://ahmadfrijat.github.io/reading-notes-/02)        |   Pair Programming                               |
 | - [class 03](https://ahmadfrijat.github.io/reading-notes-/03)        |   MUSTACHE and FLEXBOX                           |
 | - [class 04](https://ahmadfrijat.github.io/reading-notes-/04)        |   Responsive Web Design and Regular Expressions  |
+| - [class 05](https://ahmadfrijat.github.io/reading-notes-/05)        |   HEROKU                                         |
 
 
 ## Code 401 - Advanced Software Development
