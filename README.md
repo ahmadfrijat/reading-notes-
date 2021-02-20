@@ -55,7 +55,7 @@
 | - [class 03](https://ahmadfrijat.github.io/reading-notes-/03)        |   MUSTACHE and FLEXBOX                           |
 | - [class 04](https://ahmadfrijat.github.io/reading-notes-/04)        |   Responsive Web Design and Regular Expressions  |
 | - [class 05](https://ahmadfrijat.github.io/reading-notes-/05)        |   HEROKU                                         |
-| - [class 05](https://ahmadfrijat.github.io/reading-notes-/06)        |   Node, Express, and APIs                        |
+| - [class 06](https://ahmadfrijat.github.io/reading-notes-/06)        |   Node, Express, and APIs                        |
 
 
 ## Code 401 - Advanced Software Development
