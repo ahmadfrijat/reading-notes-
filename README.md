@@ -56,6 +56,7 @@
 | - [class 04](https://ahmadfrijat.github.io/reading-notes-/04)        |   Responsive Web Design and Regular Expressions  |
 | - [class 05](https://ahmadfrijat.github.io/reading-notes-/05)        |   HEROKU                                         |
 | - [class 06](https://ahmadfrijat.github.io/reading-notes-/06)        |   Node, Express, and APIs                        |
+| - [class 07](https://ahmadfrijat.github.io/reading-notes-/07)        |   Rest                                           |
 
 
 ## Code 401 - Advanced Software Development
