@@ -57,6 +57,7 @@
 | - [class 05](https://ahmadfrijat.github.io/reading-notes-/05)        |   HEROKU                                         |
 | - [class 06](https://ahmadfrijat.github.io/reading-notes-/06)        |   Node, Express, and APIs                        |
 | - [class 07](https://ahmadfrijat.github.io/reading-notes-/07)        |   Rest                                           |
+| - [class 08](https://ahmadfrijat.github.io/reading-notes-/08)        |   SQL                                            |
 
 
 ## Code 401 - Advanced Software Development
