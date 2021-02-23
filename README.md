@@ -58,6 +58,7 @@
 | - [class 06](https://ahmadfrijat.github.io/reading-notes-/06)        |   Node, Express, and APIs                        |
 | - [class 07](https://ahmadfrijat.github.io/reading-notes-/07)        |   Rest                                           |
 | - [class 08](https://ahmadfrijat.github.io/reading-notes-/08)        |   SQL                                            |
+| - [class 09](https://ahmadfrijat.github.io/reading-notes-/09)        |   FUNCTIONAL PROGRAMMING                         |
 
 
 ## Code 401 - Advanced Software Development
