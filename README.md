@@ -59,6 +59,7 @@
 | - [class 07](https://ahmadfrijat.github.io/reading-notes-/07)        |   Rest                                           |
 | - [class 08](https://ahmadfrijat.github.io/reading-notes-/08)        |   SQL                                            |
 | - [class 09](https://ahmadfrijat.github.io/reading-notes-/09)        |   FUNCTIONAL PROGRAMMING                         |
+| - [class 10](https://ahmadfrijat.github.io/reading-notes-/10)        |   THE CALL STACK                                 |
 
 
 ## Code 401 - Advanced Software Development
