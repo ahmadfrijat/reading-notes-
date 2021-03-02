@@ -63,6 +63,7 @@
 | - [class 11](https://ahmadfrijat.github.io/reading-notes-/11)        |   EJS                                            |
 | - [class 12](https://ahmadfrijat.github.io/reading-notes-/12)        |   EJS PARTIALS                                   |
 | - [class 13](https://ahmadfrijat.github.io/reading-notes-/13)        |   SENDING FORM DATA                              |
+| - [class 14a](https://ahmadfrijat.github.io/reading-notes-/14a)      |   DATABASE NORMALIZATION                         |
 
 
 ## Code 401 - Advanced Software Development
