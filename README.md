@@ -64,6 +64,7 @@
 | - [class 12](https://ahmadfrijat.github.io/reading-notes-/12)        |   EJS PARTIALS                                   |
 | - [class 13](https://ahmadfrijat.github.io/reading-notes-/13)        |   SENDING FORM DATA                              |
 | - [class 14a](https://ahmadfrijat.github.io/reading-notes-/14a)      |   DATABASE NORMALIZATION                         |
+| - [class 15](https://ahmadfrijat.github.io/reading-notes-/15)        |   Diversity & Inclusion in the Tech Industry     |
 
 
 ## Code 401 - Advanced Software Development
