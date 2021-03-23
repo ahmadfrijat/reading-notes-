@@ -68,3 +68,6 @@
 
 
 ## Code 401 - Advanced Software Development
+| Syntax                                                               | Description                                      |
+| -------------------------------------------------------------------- | ------------------------------------------------ |
+| - [class 01](https://ahmadfrijat.github.io/reading-notes-/41)        |  Class 01                                        |
