@@ -71,4 +71,4 @@
 | Syntax                                                               | Description                                      |
 | -------------------------------------------------------------------- | ------------------------------------------------ |
 | - [class 01](https://ahmadfrijat.github.io/reading-notes-/41)        |  Class 01                                        |
-| - [class 01](https://ahmadfrijat.github.io/reading-notes-/42)        |  Class 02                                        |
+| - [class 02](https://ahmadfrijat.github.io/reading-notes-/42)        |  Class 02                                        |
