@@ -75,3 +75,4 @@
 | - [class 03](https://ahmadfrijat.github.io/reading-notes-/43)        |  Class 03                                        |
 | - [class 04](https://ahmadfrijat.github.io/reading-notes-/44)        |  Class 04                                        |
 | - [class 05](https://ahmadfrijat.github.io/reading-notes-/45)        |  Class 05                                        |
+| - [class 06](https://ahmadfrijat.github.io/reading-notes-/46)        |  Class 06                                        |
