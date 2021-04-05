@@ -77,3 +77,4 @@
 | - [class 05](https://ahmadfrijat.github.io/reading-notes-/45)        |  Class 05                                        |
 | - [class 06](https://ahmadfrijat.github.io/reading-notes-/46)        |  Class 06                                        |
 | - [class 07](https://ahmadfrijat.github.io/reading-notes-/47)        |  Class 07                                        |
+| - [class 08](https://ahmadfrijat.github.io/reading-notes-/48)        |  Class 08                                        |
