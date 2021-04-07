@@ -80,3 +80,4 @@
 | - [class 08](https://ahmadfrijat.github.io/reading-notes-/48)        |  Class 08                                        |
 | - [class 09](https://ahmadfrijat.github.io/reading-notes-/49)        |  Class 09                                        |
 | - [class 10](https://ahmadfrijat.github.io/reading-notes-/50)        |  Class 10                                        |
+| - [class 11](https://ahmadfrijat.github.io/reading-notes-/51)        |  Class 11                                        |
