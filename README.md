@@ -82,3 +82,4 @@
 | - [class 10](https://ahmadfrijat.github.io/reading-notes-/50)        |  Class 10                                        |
 | - [class 11](https://ahmadfrijat.github.io/reading-notes-/51)        |  Class 11                                        |
 | - [class 12](https://ahmadfrijat.github.io/reading-notes-/52)        |  Class 12                                        |
+| - [class 13](https://ahmadfrijat.github.io/reading-notes-/53)        |  Class 13                                        |
