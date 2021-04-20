@@ -87,4 +87,5 @@
 | - [class 15](https://ahmadfrijat.github.io/reading-notes-/55)        |  Class 15                                        |
 | - [class 16](https://ahmadfrijat.github.io/reading-notes-/56)        |  Class 16                                        |
 | - [class 17](https://ahmadfrijat.github.io/reading-notes-/57)        |  Class 17                                        |
+| - [class 18](https://ahmadfrijat.github.io/reading-notes-/58)        |  Class 18                                        |
 
