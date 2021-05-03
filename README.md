@@ -90,4 +90,5 @@
 | - [class 18](https://ahmadfrijat.github.io/reading-notes-/58)        |  Class 18                                        |
 | - [class 19](https://ahmadfrijat.github.io/reading-notes-/59)        |  Class 19                                        |
 | - [class 20](https://ahmadfrijat.github.io/reading-notes-/60)        |  Class 20                                        |
+| - [class 21](https://ahmadfrijat.github.io/reading-notes-/61)        |  Class 21                                        |
 
