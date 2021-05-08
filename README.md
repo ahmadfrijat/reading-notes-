@@ -93,4 +93,5 @@
 | - [class 21](https://ahmadfrijat.github.io/reading-notes-/61)        |  Class 21                                        |
 | - [class 22](https://ahmadfrijat.github.io/reading-notes-/62)        |  Class 22                                        |
 | - [class 23](https://ahmadfrijat.github.io/reading-notes-/63)        |  Class 23                                        |
+| - [class 24](https://ahmadfrijat.github.io/reading-notes-/64)        |  Class 24                                        |
 
