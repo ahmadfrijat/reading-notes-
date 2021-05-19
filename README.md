@@ -97,4 +97,5 @@
 | - [class 25](https://ahmadfrijat.github.io/reading-notes-/65)        |  Class 25                                        |
 | - [class 26](https://ahmadfrijat.github.io/reading-notes-/66)        |  Class 26                                        |
 | - [class 27](https://ahmadfrijat.github.io/reading-notes-/67)        |  Class 27                                        |
+| - [class 28](https://ahmadfrijat.github.io/reading-notes-/68)        |  Class 28                                        |
 
