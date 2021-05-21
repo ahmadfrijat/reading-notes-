@@ -98,4 +98,6 @@
 | - [class 26](https://ahmadfrijat.github.io/reading-notes-/66)        |  Class 26                                        |
 | - [class 27](https://ahmadfrijat.github.io/reading-notes-/67)        |  Class 27                                        |
 | - [class 28](https://ahmadfrijat.github.io/reading-notes-/68)        |  Class 28                                        |
+| - [class 29](https://ahmadfrijat.github.io/reading-notes-/69)        |  Class 29                                        |
+
 
