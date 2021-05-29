@@ -102,6 +102,8 @@
 | - [class 30](https://ahmadfrijat.github.io/reading-notes-/70)        |  Class 30                                        |
 | - [class 31](https://ahmadfrijat.github.io/reading-notes-/71)        |  Class 31                                        |
 | - [class 32](https://ahmadfrijat.github.io/reading-notes-/72)        |  Class 32                                        |
+| - [class 33](https://ahmadfrijat.github.io/reading-notes-/73)        |  Class 33                                        |
+
 
 
 
